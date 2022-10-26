@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.commentInput {
+  @apply shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-yellow-500 ring;
+}
