@@ -6,6 +6,10 @@
 /medium-clone
 /.pnp
 .pnp.js
+medium-clone-sanity/**
+medium-clone/**
+/medium-clone-sanity/**
+/medium-clone/**
 
 # testing
 /coverage
